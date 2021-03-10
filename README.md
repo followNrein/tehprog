@@ -1,0 +1,2 @@
+# tehprog
+Git labs / PetrSU
